@@ -15,11 +15,11 @@ Since Louise was more interested in the catagory "Theater" we concentrate out an
 
 We take two basic results during analysis
 
-a) Analysis based on the Launched date  
-b) Analysis based on Goal amount of the project.
-
+ a) Analysis based on the Launched date  
+ b) Analysis based on Goal amount of the project.
    
-   Analysis based on the Launched date:
+   
+   ## Analysis based on the Launched date:
    
    
   ![](https://github.com/Spandanson/kickstarter-analysis/blob/master/Resources/Theater%20outcomes%20vs%20launched%20date.png)
@@ -30,7 +30,7 @@ b) Analysis based on Goal amount of the project.
      The Launched date analysis suggest the the projects Launched in the middle of the year i.e from May, June, July, August are more successful
       than anyother months.
 
-   Analysis based on Goal amount of the project.
+   ## Analysis based on Goal amount of the project.
 
       
  ![](https://github.com/Spandanson/kickstarter-analysis/blob/master/Resources/Launched%20date%20vs%20theater%20outcomes.png)
