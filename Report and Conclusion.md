@@ -1,9 +1,9 @@
-1. Overview of Project:
+# 1. Overview of Project:
 
 The main purpose of this analysis is to uncover the hidden trends of Crowdfunding projects and suggest Louise with the best solution for
 her crowdfunding project.
 
-2. Analysis and challenges
+# 2. Analysis and challenges
 
 As the data provided are very detailed and covers lots of stuffs including Goal amount, pledged amount, country of origin, various catagories
 and subcatagories, there was always a challange to choose the best amoung the catagories and the sub catagories. On a top of that there was 
@@ -11,7 +11,7 @@ always the effect of goal amount and country of origin while choosing the projec
 
 Since Louise was more interested in the catagory "Theater" we concentrate out analysis on it.
 
-3. Result of Analysis
+# 3. Result of Analysis
 
 We take two basic results during analysis
 
@@ -42,7 +42,7 @@ b) Analysis based on Goal amount of the project.
       amount.The projects with the mid goal amount between 20000 to 35000 have more failure percentage that success percentage.However the 
       projects with the goal amount between 35000 to 45000 have more success pecentage.
 
-4.Limitations:
+# 4.Limitations:
 
  The analysis is limited to the catagory "Theater" only as Louiseis  is more intrested on that, but we can comparie various catagoies to get the 
  best outcomes. In this particul analysis as well we can to the analysis base on the pledged amount and the Created date to get more accurate results.
