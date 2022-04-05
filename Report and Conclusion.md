@@ -32,6 +32,12 @@ b) Analysis based on Goal amount of the project.
 
    Analysis based on Goal amount of the project.
 
+      
+ ![](https://github.com/Spandanson/kickstarter-analysis/blob/master/Resources/Launched%20date%20vs%20theater%20outcomes.png)
+      
+      
+      
+      
       The analysis based on goal amont suggest the the projects with the less goal amount have higher success rates the the projects with high goal 
       amount.The projects with the mid goal amount between 20000 to 35000 have more failure percentage that success percentage.However the 
       projects with the goal amount between 35000 to 45000 have more success pecentage.
