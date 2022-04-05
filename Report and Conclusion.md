@@ -21,7 +21,13 @@ b) Analysis based on Goal amount of the project.
    
    Analysis based on the Launched date:
    
-      The Launched date analysis suggest the the projects Launched in the middle of the year i.e from May, June, July, August are more successful
+   
+  ![](https://github.com/Spandanson/kickstarter-analysis/blob/master/Resources/Theater%20outcomes%20vs%20launched%20date.png)
+   
+     
+     
+     
+     The Launched date analysis suggest the the projects Launched in the middle of the year i.e from May, June, July, August are more successful
       than anyother months.
 
    Analysis based on Goal amount of the project.
